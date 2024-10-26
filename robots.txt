@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohobuoru.github.io/sitemap_index.ohobuoru
